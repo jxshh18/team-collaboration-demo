@@ -1,2 +1,2 @@
 # About Me
-Hi! I'm Joshua, and I worked on the About Page.
+Hi! I'm Joshua, and I am not fantastic.
