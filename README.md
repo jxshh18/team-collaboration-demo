@@ -1,2 +1,7 @@
 # About Me
-Hi! I'm Joshuaaaaaaaaaa
+Hi! we are:
+Joshua - Team Leader
+Patsue - Developer
+Khian - UI/UX Designer
+Shan - Documenter
+
